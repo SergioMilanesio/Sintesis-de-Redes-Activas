@@ -4,3 +4,4 @@ En cada laboratorio encontrara:
 - Imagenes
 - Codigos
 - Simulaciones (LTSPice)
+- Descargas disponibles .rar
