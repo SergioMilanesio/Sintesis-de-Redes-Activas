@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Usuario\Documents\2 - ACADEMICOS\1 - FCEFyN - Ing Milanesio\4to\4 - Sintesis de Redes Activas\1 - Laboratorios\1 - Milanesio Sergio Martin\Lab2\3 - Simulaciones\Lab2_AOReal_Circuito1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Aug 20 22:09:02 2026
+Total elapsed time: 0.076 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2095
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 37
+fillins = 38
+solver = Normal
+Avg thread counts: 2.3/3.6/3.6/2.3
+Matrix Compiler1: 3.45 KB object code size  1.0/0.5/[0.4]
+Matrix Compiler2: 3.55 KB object code size  0.4/0.5/[0.3]
+
