@@ -1,0 +1,148 @@
+Circuit: * C:\Users\Usuario\Documents\2 - ACADEMICOS\1 - FCEFyN - Ing Milanesio\4to\4 - Sintesis de Redes Activas\1 - Laboratorios\1 - Milanesio Sergio Martin\Lab4\2 - Circuitos\1 - Nuevo\Montecarlo.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 8.61953
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 8.47038
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+.step run=0
+.step run=1
+.step run=2
+.step run=3
+.step run=4
+.step run=5
+.step run=6
+.step run=7
+.step run=8
+.step run=9
+.step run=10
+.step run=11
+.step run=12
+.step run=13
+.step run=14
+.step run=15
+.step run=16
+.step run=17
+.step run=18
+.step run=19
+.step run=20
+.step run=21
+.step run=22
+.step run=23
+.step run=24
+.step run=25
+.step run=26
+.step run=27
+.step run=28
+.step run=29
+.step run=30
+.step run=31
+.step run=32
+.step run=33
+.step run=34
+.step run=35
+.step run=36
+.step run=37
+.step run=38
+.step run=39
+.step run=40
+.step run=41
+.step run=42
+.step run=43
+.step run=44
+.step run=45
+.step run=46
+.step run=47
+.step run=48
+.step run=49
+.step run=50
+
+
+Measurement: ganancia_max
+  step	MAX(mag(v(vout)))	FROM	TO
+     1	(5.85819dB,0°)	1	1e+09
+     2	(-3.38399dB,0°)	1	1e+09
+     3	(-1.47913dB,0°)	1	1e+09
+     4	(-0.244061dB,0°)	1	1e+09
+     5	(0.256956dB,0°)	1	1e+09
+     6	(-5.68947dB,0°)	1	1e+09
+     7	(0.372538dB,0°)	1	1e+09
+     8	(2.27201dB,0°)	1	1e+09
+     9	(-0.372508dB,0°)	1	1e+09
+    10	(-6.08998dB,0°)	1	1e+09
+    11	(3.78825dB,0°)	1	1e+09
+    12	(-4.54047dB,0°)	1	1e+09
+    13	(4.92566dB,0°)	1	1e+09
+    14	(5.94866dB,0°)	1	1e+09
+    15	(0.766223dB,0°)	1	1e+09
+    16	(7.93875dB,0°)	1	1e+09
+    17	(-0.449542dB,0°)	1	1e+09
+    18	(5.08018dB,0°)	1	1e+09
+    19	(-4.58892dB,0°)	1	1e+09
+    20	(-2.796dB,0°)	1	1e+09
+    21	(1.72815dB,0°)	1	1e+09
+    22	(-2.5939dB,0°)	1	1e+09
+    23	(1.19939dB,0°)	1	1e+09
+    24	(3.00079dB,0°)	1	1e+09
+    25	(1.34826dB,0°)	1	1e+09
+    26	(0.167962dB,0°)	1	1e+09
+    27	(1.14199dB,0°)	1	1e+09
+    28	(0.96441dB,0°)	1	1e+09
+    29	(8.21432dB,0°)	1	1e+09
+    30	(1.76356dB,0°)	1	1e+09
+    31	(4.56225dB,0°)	1	1e+09
+    32	(2.4478dB,0°)	1	1e+09
+    33	(3.12386dB,0°)	1	1e+09
+    34	(-0.415261dB,0°)	1	1e+09
+    35	(12.6994dB,0°)	1	1e+09
+    36	(20.2209dB,0°)	1	1e+09
+    37	(9.08813dB,0°)	1	1e+09
+    38	(10.7695dB,0°)	1	1e+09
+    39	(1.53919dB,0°)	1	1e+09
+    40	(11.5549dB,0°)	1	1e+09
+    41	(1.62782dB,0°)	1	1e+09
+    42	(2.55434dB,0°)	1	1e+09
+    43	(-2.17295dB,0°)	1	1e+09
+    44	(7.84851dB,0°)	1	1e+09
+    45	(-4.0304dB,0°)	1	1e+09
+    46	(-3.68721dB,0°)	1	1e+09
+    47	(-3.74157dB,0°)	1	1e+09
+    48	(6.99909dB,0°)	1	1e+09
+    49	(7.95354dB,0°)	1	1e+09
+    50	(-2.72923dB,0°)	1	1e+09
+    51	(-1.89601dB,0°)	1	1e+09
+
+
+Date: Sun Aug 30 18:23:10 2026
+Total elapsed time: 5.370 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 1374
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 60
+fillins = 244
+solver = Normal
+Avg thread counts: 3.0/0.0/8.0/2.9
+Matrix Compiler1:    1048 opcodes
+Matrix Compiler2: 9.11 KB object code size  0.5/0.7/[0.5]
+
