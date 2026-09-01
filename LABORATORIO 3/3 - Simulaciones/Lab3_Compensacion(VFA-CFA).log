@@ -1,0 +1,84 @@
+Circuit: * C:\Users\Usuario\Documents\2 - ACADEMICOS\1 - FCEFyN - Ing Milanesio\4to\4 - Sintesis de Redes Activas\1 - Laboratorios\1 - Milanesio Sergio Martin\Lab3\3 - Simulaciones\Lab3_Compensacion(VFA-CFA).asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 6.68666
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 6.84217
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 88.6364%
+vernier = 0.0625
+Source Step = 88.009%
+Source Step = 88.1274%
+Source Step = 88.2457%
+Source Step = 88.3641%
+Source Step = 88.4825%
+vernier = 0.00585938
+Source Step = 88.6364%
+Source Step = 88.8139%
+Source Step = 88.9915%
+Source Step = 89.169%
+Source Step = 89.3466%
+vernier = 0.00878906
+Source Step = 89.5685%
+Source Step = 89.8349%
+Source Step = 90.1012%
+Source Step = 90.3675%
+Source Step = 90.6339%
+vernier = 0.0131836
+Source Step = 90.9535%
+Source Step = 91.353%
+Source Step = 91.7525%
+Source Step = 92.152%
+Source Step = 92.5515%
+vernier = 0.0197754
+Source Step = 93.0109%
+Source Step = 93.6102%
+Source Step = 94.2094%
+Source Step = 94.8087%
+Source Step = 95.4079%
+vernier = 0.0296631
+Source Step = 96.0671%
+Source Step = 96.966%
+Source Step = 97.8649%
+Source Step = 98.7638%
+Source Step = 99.6626%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Thu Aug 27 10:54:21 2026
+Total elapsed time: 0.173 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 3264
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 92
+fillins = 222
+solver = Normal
+Avg thread counts: 1.8/0.0/6.4/1.8
+Matrix Compiler1:     902 opcodes
+Matrix Compiler2: off  [0.6]/1.3/0.9
+
